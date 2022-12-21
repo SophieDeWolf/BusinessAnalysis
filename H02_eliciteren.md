@@ -60,7 +60,7 @@ Voorbeeld van een proces: lassen van een reeks identieke stukken op een lasrobot
   - use cases
   - prototypen
 
-### **Creatieve technieken**
+### <u>Creatieve technieken</u>
 
 <u>Brainstorm</u>
 
@@ -83,7 +83,7 @@ Voorbeeld van een proces: lassen van een reeks identieke stukken op een lasrobot
 - analogieën stimuleren creativiteit
 - vb: ziekenhuislogistiek rond behandelen van patiënten vergelijken met werkprocessen op Zaventem
 
-### **Uitvraagtechnieken**
+### <u>Uitvraagtechnieken</u>
 
 <u>interviewen</u>
 
@@ -159,7 +159,7 @@ Voorbeeld van een proces: lassen van een reeks identieke stukken op een lasrobot
   - deelnemers kunnen vragen verkeerd interpreteren
   - je mist de non-verbale communicatie
 
-### **Observatietechnieken**
+### <u>Observatietechnieken</u>
 
 <u>veldobservatie</u>
 
@@ -171,7 +171,7 @@ Voorbeeld van een proces: lassen van een reeks identieke stukken op een lasrobot
 - analist voert zelf het werk uit
 - tijdrovend, levert diepgaande kennis op
 
-### **Documentatie-georiënteerde technieken**
+### <u>Documentatie-georiënteerde technieken</u>
 
 <u>systeemarcheologie</u>  
 <img src="afbeeldingen/2-systeemarcheologie.png" width="250">
@@ -194,7 +194,7 @@ Voorbeeld van een proces: lassen van een reeks identieke stukken op een lasrobot
 - eerder uitgevoerde analyses
 - tijd & kosten voor analyse sterk reduceren
 
-### **Ondersteunende technieken**
+### <u>Ondersteunende technieken</u>
 
 <u>mind mapping</u>  
 <img src="afbeeldingen/2-mindmaps.png" width="250">
@@ -247,10 +247,10 @@ Voorbeeld van een proces: lassen van een reeks identieke stukken op een lasrobot
     - vereiste detailniveau beïnvloedt keuze
     - ervaring analist met bepaalde technieken
 
-### **Verschil in keuze van technieken**
+### <u>Verschil in keuze van technieken</u>
 - startup met 100 werknemers vereist andere aanpak dan overheidsbedrijf
 
-### **Invloed van de bedrijfscultuur**
+### <u>Invloed van de bedrijfscultuur</u>
 Open cultuur
 - alle medewerkers aangemoedigd om ideeën te delen
 - gebruik workshops om ideeën te delen

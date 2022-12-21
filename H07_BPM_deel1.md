@@ -25,6 +25,10 @@ Wat
 Doel  
 <img src="afbeeldingen/7-doel.png" width="500">
 
+<div style="page-break-after: always; visibility: hidden"> 
+<!--\pagebreak--> 
+</div>
+
 ## Notatietechnieken voor BPM
 
 <img src="afbeeldingen/7-notatietechnieken.png" width="400">
@@ -104,6 +108,10 @@ Parallel fork/join
 
 <img src="afbeeldingen/7-zwembaden.png" width="400">
 
+<div style="page-break-after: always; visibility: hidden"> 
+<!--\pagebreak--> 
+</div>
+
 ### <u>Voorstellen v/e proces via BPMN-zwembanendiagram</u>
 
 | Beperkingen                                            | Voordelen                                      |
@@ -168,7 +176,11 @@ Formulering
 - Goed: 'verzenden vergunning'
 - Fout: 'beheren vergunning', 'verbeteren vergunning', 'verzenden formulier F45', 'verzenden'
 
-Veel gebruikte wachtwoorden
+<div style="page-break-after: always; visibility: hidden"> 
+<!--\pagebreak--> 
+</div>
+
+Veel gebruikte werkwoorden
 |<span style="font-weight:normal">Afwerken</span>|<span style="font-weight:normal">Archiveren</span>|<span style="font-weight:normal">Beoordelen</span>|<span style="font-weight:normal">Bepalen</span>|<span style="font-weight:normal">Berekenen</span>|
 |:--|:--|:--|:--|:--|
 |Beslissen|Bijwerken|Controleren|Creëren|Evalueren|
@@ -189,5 +201,5 @@ Associatie
 
 |<span style="font-weight:normal">Sequentiëel</span>|<img src="afbeeldingen/7-sequentieel.png" width="100">|
 |:--|:--|
-|<span style="font-weight:normal">Booschappen</span>|<img src="afbeeldingen/7-boodschappen.png" width="100">|
+|<span style="font-weight:normal">Boodschappen</span>|<img src="afbeeldingen/7-boodschappen.png" width="100">|
 |<span style="font-weight:normal">Associatie</span>|<img src="afbeeldingen/7-associatie.png" width="100">|

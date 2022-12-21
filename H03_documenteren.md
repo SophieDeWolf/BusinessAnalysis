@@ -38,7 +38,7 @@ Richtlijnen → INVEST
 - Klein → Small
 - Testbaar → Testable  
 
-### **Negotiable - onderhandelbaar**
+### <u>Negotiable - onderhandelbaar</u>
 - Beschrijven requirements zonder te specifiëren
 - Start ve conversatie
   - Product owners: bepalen richting (wat)
@@ -48,7 +48,7 @@ Richtlijnen → INVEST
   - Stories splitten of worden onnodig
 - Zo laat mogelijk details toevoegen
 
-### **Valuable - waardevol**
+### <u>Valuable - waardevol</u>
 - Moeten business waarde bevatten
   - Meer opbrengsten, lagere kosten, klanten aantrekken, personeel efficiënter maken, …
 - Gesloten stories: eindigt met een user's goal
@@ -62,12 +62,12 @@ Richtlijnen → INVEST
 
 - Meerdere niveau's van detail: business ↔ technisch
 
-### **Epics**
+### <u>Epics</u>
 - Groot stuk functionaliteit die business wil hebben & waarde oplevert
 - Opgeleverd ahdv kleinere user stories, meerdere iteraties
 - Format van user stories moet niet gevolgd worden: moet groot zijn, wie/wat/waarom wel belangrijk
 
-### **Tasks**
+### <u>Tasks</u>
 - Story kan onderverdeeld worden in uitvoerbare taken
 - Geschreven door Dev team, voor Dev team
   - Mogen technische zaken bevatten
@@ -135,7 +135,7 @@ Voorbeeld customer journey: IKEA
 
 Prioriteren: MoSCoW
 - Mo: Must have → essentiële elementen
-- S: should have → belanbrijke elementen
+- S: should have → belangrijke elementen
 - Co: could have → leuke extraatjes
 - W: won't have → voegen geen waarde toe
 
