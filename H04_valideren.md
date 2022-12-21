@@ -34,6 +34,10 @@ GWT
 - When: als ik username & password invul met correcte credentials en ik klik op sign-in knop
 - Then: systeem logt mij in
 
+<div style="page-break-after: always; visibility: hidden"> 
+<!--\pagebreak--> 
+</div>
+
 ## Testen
 - Evolutie
   - Debuggen: onderdeel van programmeren
@@ -90,7 +94,7 @@ Schade aan klanten en gebruikers (dalende volgorde)
 - Bedreigend voor veiligheid van menselijke wezens
 - Aantasting ve essentiële organisatiefunctie
 - Aantasting vd werking van firmware
-- Aantasting ve essentiële organisatiefunctie, er is een vervanging beschikbaar door een alternatief systeem
+- Aantasting ve essentiële organisatiefunctie, is een vervanging beschikbaar door alternatief systeem
 - Aantasting vd goede werking ve software pakket voor business toepassingen
 - Aantasting vd goede werking ve software pakket voor een private eindgebruiker
 - Aantasting vd werking ve firmwaretoepassing maar zonder het volledige systeem te affecteren
@@ -112,9 +116,7 @@ Toegevoegde waarde van testen
 - Vertrouwen in het testobject
 - Effectieve projectsturing
 
-Binnen een SW-project
-- Verschillende disciplines
-- Verschillende belangen & aandachtspunten: projectmanager, programmeur, gebruiker, beheerder, business manager, tester
+Binnen een SW-project: verschillende disciplines, belangen & aandachtspunten: projectmanager, programmeur, gebruiker, beheerder, business manager, tester
 
 ## 10 testprincipes
 1. Focus op het resultaat
@@ -306,6 +308,10 @@ Onderwerpen die een rol spelen bij het opstellen van een testplan
 ### <u>Testautomatisering</u>  
 <img src="afbeeldingen/4-testautomatisering.png" width="400">
 
+<div style="page-break-after: always; visibility: hidden"> 
+<!--\pagebreak--> 
+</div>
+
 ## Kwaliteitsborging
 - Controle op basis van de opgeleverde tussenproducten of de vooropgestelde kwaliteit wordt bereikt
   - Vroegtijdig vaststellen van afwijkingen
@@ -328,4 +334,97 @@ Onderwerpen die een rol spelen bij het opstellen van een testplan
 - Inspectie
 
 <u>Collegiale review</u>  
-- 
+
+- Collega’s, die hetzelfde werk doen, beoordelen collega’s
+- Collega’s zijn goed op de hoogte van omgeving, problematiek, technische achtergrond
+- Minder vertrouwen in "vreemden" (auditor, inspecteur)
+- Positief: collega’s leren van elkaar
+
+Risico’s
+- Te informele organisatie
+  - Duidelijkheid geven over de review
+    - Welk product, aspecten, hoeveel tijd, hoe bevindingen worden vastgelegd en hoe deze gecommuniceerd worden, aangeven wat prioritair is (reviewof eigen dagelijkse taak)
+  - Bijzondere maatregelen
+    - Training, uitvoeren van een pilot, ondersteuning bij uitvoering
+  - Doel: collega’s de meerwaarde van collegiale reviews laten onderkennen
+
+<div style="page-break-after: always; visibility: hidden"> 
+<!--\pagebreak--> 
+</div>
+
+- Geen eenduidige beoordelingsgrondslag
+  - Vooraf bepalen welke aspecten in de reviewmoeten belicht worden
+    - Enkel inhoud?, voorgeschreven standaarden gehanteerd?, taalfouten corrigeren?, controle of vertaalslag correct gebeurd is? (Bv. FO naar TO), checklist?
+  - Heldere beoordelingsslag = verbetering van de kwaliteit  
+- De opsteller van het product en de reviewerdienen over voldoende communicatievaardigheden te beschikken
+  - Collega’s zien elkaar als concurrenten
+  - "Afkraken" van het product wordt beschouwd als oncollegiaal gedrag
+  - "Oncollegiaal gedrag moet voorkomen"
+  - Maker van het product mag collegiale review niet zien als aanval op zijn werk
+  - Doel van de review: het product verbeteren, niet het onderuit halen
+  - Gedeelde verantwoordelijkheid
+  - Product is niet van de maker alleen maar is een projectaangelegenheid
+  - Kwaliteitsverbetering is een organisatiebelang
+- Te vergevingsgezind
+  - De reviewer meldt de geconstateerde afwijkingen niet
+
+Conclusie
+- Collega’s beoordelen elkaars werk
+- Zeer informeel
+- Vooral gericht op inhoud
+- Minder gericht naar vorm, toepassen van procedures
+- Collega’s leren van elkaar
+- Voorwaarde: vertrouwen tussen de collega’s
+
+<u>Expert review</u>
+
+- Expert die geen deel uitmaakt van het team
+- Resultaten blijven intern
+- Iets formeler van aard
+- Gebruik van checklist, bevindingenlijst, rapport verhogen de kwaliteit van de review
+- Minpunt: de expert kent de specifieke aspecten van de omgeving waarin de maker van het product werkt niet
+- Pluspunt: de expert werkt onbevooroordeeld
+
+<u>Structured walkthrough</u>  
+
+- De auteur leidt de groep door een document/product en licht achterliggende gedachte en keuzes toe
+- Doel: consensus bereiken over de inhoud
+- Auteur = actieve rol
+
+<div style="page-break-after: always; visibility: hidden"> 
+<!--\pagebreak--> 
+</div>
+
+<u>Inspectie</u>
+
+6 fasen (Fagan)
+- Planning
+- Kick-off
+- Voorbereiding
+- Groepsmeetings
+- Aanpassing product
+- Afsluiting
+
+Planning
+- Toetsing entry criteria (=eisen waar een product aan dient te voldoen om geïnspecteerd te worden) → checklist
+- Strategiebepaling: wie inspecteert welke aspecten?
+- Verzamelen documenten: referentiekader opbouwen
+- Benaderen inspecteurs
+
+Kick-off
+- Meeting: maker, inspecteurs, aspecten, belang
+
+Voorbereiding
+- Alle betrokkenen zoeken naar fouten
+
+Groepsmeetings
+- 3 meetings: Bevindingen-registratiemeeting, discussiemeeting, oorzaakanalyse
+- Kwaliteitsmanager leidt vergadering
+
+Aanpassing product
+- Op basis van de bevindingen gebeuren aanpassingen
+- Onafhankelijke functionaris (kwaliteitsmanager) checkt of alle bevindingen goed verwerkt zijn
+- De maker blijft eindverantwoordelijke (hij kan sommige aanbevelingen bewust naast zich neerleggen)
+
+Afsluiting
+- Korte rapportage: auteur, inspecteurs, management
