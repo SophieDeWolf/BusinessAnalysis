@@ -14,17 +14,17 @@ Vorm
 - Zodat {waarom}
 
 Wat
-- korte beschrijving van wat een gebruiker wil
-- beschrijft in gewone spreektaal van de gebruiker wat de gebruiker (moet) doen
-- gebruikt binnen agile software development
-- weinig details, moet passen op een post-it
+- Korte beschrijving van wat een gebruiker wil
+- Beschrijft in gewone spreektaal van de gebruiker wat de gebruiker (moet) doen
+- Gebruikt binnen agile software development
+- Weinig details, moet passen op een post-it
 
 Waarom
-- makkelijk te verstaan: geen voorkennis vereist of technisch jargon
-- makkelijk te delen: doel is communicatie tussen IT & business
-- lage inspanning: snel opstellen, kan just-in-time
-- moeten niet perfect zijn: discussie zal voor duiding zorgen
-- makkelijk te plannen: stelt een werkitem voor
+- Makkelijk te verstaan: geen voorkennis vereist of technisch jargon
+- Makkelijk te delen: doel is communicatie tussen IT & business
+- Lage inspanning: snel opstellen, kan just-in-time
+- Moeten niet perfect zijn: discussie zal voor duiding zorgen
+- Makkelijk te plannen: stelt een werkitem voor
 
 Eigenschappen
 - Niet gebonden aan IEEE-guidelines
